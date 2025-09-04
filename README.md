@@ -100,10 +100,10 @@ flowchart TD
 * Performance metrics used:
 
   🍊 Citrus Fruits<br>
-      &nbsp;✅ Accuracy: 95%<br>
-      &nbsp;🎯 Precision: 95%<br>
-      &nbsp;🔄 Recall: 95%<br>
-      &nbsp;📐 F1-Score: 95%<br>
+      &nbsp; &nbsp; ✅ Accuracy: 95%<br>
+      &nbsp; &nbsp; 🎯 Precision: 95%<br>
+      &nbsp; &nbsp; 🔄 Recall: 95%<br>
+      &nbsp; &nbsp; 📐 F1-Score: 95%<br>
 
   🌿 Citrus Leaves
       ✅ Accuracy: 99%
