@@ -100,25 +100,22 @@ flowchart TD
 * Performance metrics used:
 
   🍊 Citrus Fruits
+      ✅ Accuracy: 95%
+      🎯 Precision: 95%
+      🔄 Recall: 95%
+      📐 F1-Score: 95%
 
-✅ Accuracy: 95%
+  🌿 Citrus Leaves
+      ✅ Accuracy: 99%
+      🎯 Precision: 99%
+      🔄 Recall: 99%
+      📐 F1-Score: 99%
 
-🎯 Precision: 95%
+### 📊 Visualization:
 
-🔄 Recall: 95%
-
-📐 F1-Score: 95%
-
-🌿 Citrus Leaves
-
-✅ Accuracy: 99%
-
-🎯 Precision: 99%
-
-🔄 Recall: 99%
-
-📐 F1-Score: 99%
-* Visualization tools were used to track learning curves.
+* Accuracy/Loss curves demonstrate stable training and strong generalization.
+* Confusion matrices (for both fruits and leaves) show minimal misclassification.
+* The model proves effective for early disease detection in both citrus fruits and leaves.
 
 ---
 
