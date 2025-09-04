@@ -99,17 +99,17 @@ flowchart TD
 * The model achieved **high classification accuracy** on the test dataset.
 * Performance metrics used:
 
-  🍊 Citrus Fruits<br>
-      &nbsp; &nbsp; ✅ Accuracy: 95%<br>
-      &nbsp; &nbsp; 🎯 Precision: 95%<br>
-      &nbsp; &nbsp; 🔄 Recall: 95%<br>
-      &nbsp; &nbsp; 📐 F1-Score: 95%<br>
+  🍊 Citrus Fruits <br>
+      &nbsp; &nbsp; &nbsp; ✅ Accuracy: 95% <br>
+      &nbsp; &nbsp; &nbsp; 🎯 Precision: 95% <br>
+      &nbsp; &nbsp; &nbsp; 🔄 Recall: 95% <br>
+      &nbsp; &nbsp; &nbsp; 📐 F1-Score: 95% <br>
 
-  🌿 Citrus Leaves
-      ✅ Accuracy: 99%
-      🎯 Precision: 99%
-      🔄 Recall: 99%
-      📐 F1-Score: 99%
+  🌿 Citrus Leaves <br>
+      &nbsp; &nbsp; &nbsp;✅ Accuracy: 99% <br>
+      &nbsp; &nbsp; &nbsp;🎯 Precision: 99% <br>
+      &nbsp; &nbsp; &nbsp;🔄 Recall: 99% <br>
+      &nbsp; &nbsp; &nbsp;📐 F1-Score: 99% <br>
 
 ### 📊 Visualization:
 
